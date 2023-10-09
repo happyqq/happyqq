@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @happyqq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-happyqq/happyqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 我是HappyQQ
+- 👀 专注人工智能，网络安全，软件架构，软件开发等领域
+- 🌱 我现在正在研究人工智能相关的前沿技术
+- 📫 如果你想联系我，可以在推特上联系我
